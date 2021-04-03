@@ -1,3 +1,3 @@
 ### 수학 계산을 위한 코드를 제공하는 프로젝트
 **1. calculator.py** : 계산기에서 제공 하는 모둘 
--add, subtract 등
+- add, subtract 등
